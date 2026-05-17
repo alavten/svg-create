@@ -1,0 +1,20 @@
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Scratch / agent-generated outputs (not part of the skill spec)
+tmp/
+temp/
+output/
+drafts/
+*.tmp
+*.bak
+*.orig
+*.log
+.cache/
